@@ -1,0 +1,35 @@
+{
+  "term": "Summer",
+  "year": "2022",
+  "level": [
+    "Non Credit"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "cbf55656-9ce7-0306-19fa-c73781642ee4"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "",
+    "website": "new-physics-test-couse"
+  },
+  "course_title": "New Physics Course Data",
+  "course_description": "desc",
+  "department_numbers": [
+    "5"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "100",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "new-physics-test-couse"
+  },
+  "learning_resource_types": [
+    "Demonstration Audio"
+  ],
+  "site_uid": "4ed2b654-a250-467b-b9f0-9734708ca39c",
+  "site_short_id": "new-physics-test"
+}
